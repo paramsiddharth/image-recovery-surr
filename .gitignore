@@ -4,3 +4,4 @@ iTunes.app/
 *.jpg
 *.webp
 *.bloc
+.DS_Store
